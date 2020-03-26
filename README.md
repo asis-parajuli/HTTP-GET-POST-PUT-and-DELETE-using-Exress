@@ -1,2 +1,2 @@
-# HTTP-GET-POST-PUT-and-DELETE-using-Exress
-Handling Get, Post, Put and Delete using Express
+# HTTP-GET-POST-PUT-and-DELETE-using-Node-Exress
+Handling Get, Post, Put and Delete using Node-Express
